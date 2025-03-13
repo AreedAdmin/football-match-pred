@@ -1,0 +1,150 @@
+Feature,Importance
+HT_APG,0.05568943
+AT_APG,0.049085118
+ATWR,0.036323074
+HRIS,0.024264332
+ARIS,0.022364222
+HTWR,0.021963742
+HomeSTP,0.021903656
+CHO,0.019450998
+Season_2001-2002,0.019012716
+HDR,0.018060092
+HomeTeam_GamesSoFar,0.01724829
+AwaySTP,0.014712581
+HomeRollingGoals,0.014515249
+HAR,0.014163006
+HomeTeam_Leicester,0.013755071
+AwayRollingGoals,0.012792309
+HomeTeam_Nott'm Forest,0.012185807
+AwaySGA,0.011755471
+AwayElo,0.011538994
+HomeSGF,0.011374222
+ADR,0.01094822
+CDO,0.010794314
+HomeElo,0.010790712
+HomeTeam_West Ham,0.010297945
+HomeSGA,0.010224956
+AAR,0.009966116
+Season_2002-2003,0.009941492
+Year,0.009932157
+HomeTeam_Portsmouth,0.009905371
+AwayTeam_Hull,0.00988524
+AwayTeam_Birmingham,0.009867425
+HomeTeam_Birmingham,0.009762498
+HomeTeam_Brighton,0.0096420245
+HomeTeam_Liverpool,0.009563986
+HomeTeam_Everton,0.009387624
+Season_2010-2011,0.009379991
+CAO,0.009292738
+HomeTeam_Hull,0.009152737
+H2H_WinRatio,0.00909037
+HomeTeam_Southampton,0.009074248
+AwayTeam_Blackburn,0.00905328
+AwayTeam_GamesSoFar,0.00904949
+AwayTeam_Liverpool,0.009041834
+AwayTeam_Middlesbrough,0.009036784
+AwaySGF,0.0089308005
+Season_2021-2022,0.008918502
+DayOfWeek,0.008787959
+Season_2007-2008,0.008753065
+AwayTeam_Leeds,0.008702448
+HomeTeam_Cardiff,0.008651283
+Season_2020-2021,0.008441101
+Season_2004-2005,0.008377835
+AwayTeam_Swansea,0.008349103
+HomeTeam_Newcastle,0.008262274
+HomeTeam_Charlton,0.008113533
+AwayTeam_Watford,0.007985818
+AwayTeam_QPR,0.007979918
+AwayTeam_Burnley,0.007887821
+H2H_AvgMargin,0.007850376
+HomeTeam_Man City,0.007823777
+HomeTeam_Fulham,0.007650743
+AwayTeam_Tottenham,0.007641184
+AwayTeam_Crystal Palace,0.0076260585
+AwayTeam_Fulham,0.007604184
+HomeTeam_Swansea,0.0073796753
+HomeTeam_Blackburn,0.006964606
+AwayTeam_Portsmouth,0.0069544776
+HomeTeam_Tottenham,0.0068623535
+HomeTeam_Crystal Palace,0.0066757435
+AwayTeam_Aston Villa,0.006535581
+Month,0.0065283026
+AwayTeam_Man City,0.0064778677
+AwayTeam_Charlton,0.0064545935
+HomeTeam_Brentford,0.00636939
+HomeTeam_Aston Villa,0.0063350727
+AwayTeam_Everton,0.006312536
+Season_2015-2016,0.006276689
+HomeTeam_Stoke,0.0062494986
+AwayTeam_Reading,0.006002251
+Season_2023-2024,0.005956262
+AwayTeam_West Brom,0.0058995686
+AwayTeam_Leicester,0.0055275834
+HomeTeam_Reading,0.0054723234
+AwayTeam_West Ham,0.005449498
+Season_2012-2013,0.005407455
+Season_2018-2019,0.00531382
+Season_2017-2018,0.005222142
+AwayTeam_Man United,0.0051090107
+Season_2013-2014,0.0049077743
+AwayTeam_Chelsea,0.004850122
+HomeTeam_Arsenal,0.0044600335
+HomeTeam_Bolton,0.0044427286
+Season_2003-2004,0.003931122
+HomeTeam_Middlesbrough,0.0034706085
+Season_2014-2015,0.0029479014
+Season_2008-2009,0.0015692919
+AwayTeam_Brighton,0.0015359091
+HomeTeam_Chelsea,0.00057049975
+AwayTeam_Huddersfield,0.0
+HomeTeam_Huddersfield,0.0
+HomeTeam_QPR,0.0
+HomeTeam_Norwich,0.0
+HomeTeam_Man United,0.0
+Season_2005-2006,0.0
+Season_2006-2007,0.0
+HomeTeam_Luton,0.0
+HomeTeam_Leeds,0.0
+Season_2009-2010,0.0
+HomeTeam_Ipswich,0.0
+Season_2011-2012,0.0
+HomeTeam_Derby,0.0
+AwayTeam_Ipswich,0.0
+HomeTeam_Coventry,0.0
+Season_2016-2017,0.0
+HomeTeam_Burnley,0.0
+HomeTeam_Bradford,0.0
+Season_2019-2020,0.0
+HomeTeam_Bournemouth,0.0
+HomeTeam_Blackpool,0.0
+Season_2022-2023,0.0
+Div_E0,0.0
+Season_2024-2025,0.0
+HomeTeam_Sheffield United,0.0
+Season_2000-2001,0.0
+AwayTeam_Wolves,0.0
+AwayTeam_Bolton,0.0
+AwayTeam_Derby,0.0
+AwayTeam_Coventry,0.0
+AwayTeam_Cardiff,0.0
+AwayTeam_Luton,0.0
+AwayTeam_Brentford,0.0
+AwayTeam_Bradford,0.0
+AwayTeam_Bournemouth,0.0
+AwayTeam_Newcastle,0.0
+AwayTeam_Norwich,0.0
+AwayTeam_Nott'm Forest,0.0
+AwayTeam_Blackpool,0.0
+AwayTeam_Wigan,0.0
+AwayTeam_Arsenal,0.0
+AwayTeam_Sheffield United,0.0
+AwayTeam_Southampton,0.0
+AwayTeam_Stoke,0.0
+AwayTeam_Sunderland,0.0
+HomeTeam_Wolves,0.0
+HomeTeam_Wigan,0.0
+HomeTeam_West Brom,0.0
+HomeTeam_Watford,0.0
+HomeTeam_Sunderland,0.0
+Season_nan,0.0

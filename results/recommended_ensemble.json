@@ -1,0 +1,72 @@
+{
+  "top_models": [
+    "optimized_ensemble",
+    "svm",
+    "xgboost"
+  ],
+  "metrics": [
+    {
+      "Model": "optimized_ensemble",
+      "Accuracy": 0.7248790972595379,
+      "F1 Score": 0.7300082334735635,
+      "Precision": 0.7385352537698796,
+      "Recall": 0.7248790972595379
+    },
+    {
+      "Model": "svm",
+      "Accuracy": 0.6598602901665771,
+      "F1 Score": 0.6378875222653034,
+      "Precision": 0.6304609097046088,
+      "Recall": 0.6598602901665771
+    },
+    {
+      "Model": "xgboost",
+      "Accuracy": 0.6523374529822676,
+      "F1 Score": 0.6209328139470188,
+      "Precision": 0.6249765269907944,
+      "Recall": 0.6523374529822676
+    },
+    {
+      "Model": "all_model",
+      "Accuracy": 0.6523374529822676,
+      "F1 Score": 0.6209328139470188,
+      "Precision": 0.6249765269907944,
+      "Recall": 0.6523374529822676
+    },
+    {
+      "Model": "deep_nn",
+      "Accuracy": 0.6426652337452983,
+      "F1 Score": 0.6163377496894128,
+      "Precision": 0.6138375477419702,
+      "Recall": 0.6426652337452983
+    },
+    {
+      "Model": "ensemble",
+      "Accuracy": 0.6421278882321333,
+      "F1 Score": 0.6470767142708634,
+      "Precision": 0.6561057798922016,
+      "Recall": 0.6421278882321333
+    },
+    {
+      "Model": "shallow_nn",
+      "Accuracy": 0.6372917786136486,
+      "F1 Score": 0.6035407292883146,
+      "Precision": 0.6045035456831774,
+      "Recall": 0.6372917786136486
+    },
+    {
+      "Model": "ridge",
+      "Accuracy": 0.630843632455669,
+      "F1 Score": 0.6291370220909861,
+      "Precision": 0.6309848041755197,
+      "Recall": 0.630843632455669
+    },
+    {
+      "Model": "random_forest",
+      "Accuracy": 0.6077377753895755,
+      "F1 Score": 0.5935344734703386,
+      "Precision": 0.5881427303316904,
+      "Recall": 0.6077377753895755
+    }
+  ]
+}

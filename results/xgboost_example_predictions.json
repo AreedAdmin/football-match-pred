@@ -1,0 +1,82 @@
+[
+  {
+    "match": "Aston Villa vs Man United",
+    "predicted": "A",
+    "actual": "D",
+    "home_win_prob": 0.511336624622345,
+    "draw_prob": 0.2800807058811188,
+    "away_win_prob": 0.20858262479305267
+  },
+  {
+    "match": "Chelsea vs Wigan",
+    "predicted": "H",
+    "actual": "H",
+    "home_win_prob": 0.09411659836769104,
+    "draw_prob": 0.03633265197277069,
+    "away_win_prob": 0.8695507049560547
+  },
+  {
+    "match": "Middlesbrough vs Man United",
+    "predicted": "A",
+    "actual": "A",
+    "home_win_prob": 0.8421590328216553,
+    "draw_prob": 0.1361103057861328,
+    "away_win_prob": 0.02173065021634102
+  },
+  {
+    "match": "Portsmouth vs Liverpool",
+    "predicted": "H",
+    "actual": "H",
+    "home_win_prob": 0.25998297333717346,
+    "draw_prob": 0.2065524458885193,
+    "away_win_prob": 0.5334646105766296
+  },
+  {
+    "match": "Sunderland vs Man United",
+    "predicted": "A",
+    "actual": "A",
+    "home_win_prob": 0.798134982585907,
+    "draw_prob": 0.15641336143016815,
+    "away_win_prob": 0.04545166715979576
+  },
+  {
+    "match": "Aston Villa vs Southampton",
+    "predicted": "A",
+    "actual": "D",
+    "home_win_prob": 0.5958034992218018,
+    "draw_prob": 0.18399900197982788,
+    "away_win_prob": 0.22019752860069275
+  },
+  {
+    "match": "Bolton vs Middlesbrough",
+    "predicted": "H",
+    "actual": "D",
+    "home_win_prob": 0.2646760940551758,
+    "draw_prob": 0.30767086148262024,
+    "away_win_prob": 0.4276530146598816
+  },
+  {
+    "match": "Blackburn vs Portsmouth",
+    "predicted": "H",
+    "actual": "A",
+    "home_win_prob": 0.2464071810245514,
+    "draw_prob": 0.3560832738876343,
+    "away_win_prob": 0.39750948548316956
+  },
+  {
+    "match": "Everton vs Man United",
+    "predicted": "D",
+    "actual": "A",
+    "home_win_prob": 0.3684464693069458,
+    "draw_prob": 0.401117205619812,
+    "away_win_prob": 0.230436310172081
+  },
+  {
+    "match": "Man United vs Sunderland",
+    "predicted": "H",
+    "actual": "H",
+    "home_win_prob": 0.09459291398525238,
+    "draw_prob": 0.3689429461956024,
+    "away_win_prob": 0.5364641547203064
+  }
+]
