@@ -136,7 +136,7 @@ A variety of classification algorithms—including Support Vector Machines, XGBo
 ## Models & Results
 
 - **Stand-alone Performance**:  
-  - **SVM (RBF)**: ~70–73% accuracy, ~0.74 F1 in some runs.  
+  - **SVM (RBF)**: ~72% accuracy, ~0.74 F1 in some runs.  
   - **XGBoost**: Comparable or slightly lower/higher based on tuning.  
   - **Neural Networks**: ~65–70% accuracy, depending on architecture.
 
@@ -180,3 +180,11 @@ If you discover issues or have suggestions, feel free to open an issue in the re
 ## License
 
 This project is released under the [MIT License](LICENSE). Feel free to modify and distribute, provided that proper attribution is given. Have fun experimenting and innovating with Premier League predictions!
+
+---
+
+## Contact
+
+For questions or feedback, please contact me at [shehab.hassani@areednow.com](mailto:shehab.hassani@areednow.com).
+
+---
